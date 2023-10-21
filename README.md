@@ -30,7 +30,7 @@ def circulate():
     print("After circulating the values are:",result)
 ```    
 ## Output:
-![output](./EX%2002.png)
+![Alt text](<EX 02.png>)
 
 ## Result:
 Thus the python program for circulate the values of n variables is executed successfully
